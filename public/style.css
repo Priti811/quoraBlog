@@ -1,0 +1,28 @@
+h1{
+    color: brown;
+}
+.post{
+    background-color: blanchedalmond;
+}
+.user{
+    font-style: italic;
+    font-family: cursive;
+}
+
+.create{
+    text-decoration: none;
+    color: green;
+    font-size: larger;
+    border-radius: 0.5rem;
+    background-color: aliceblue;
+}
+.delete{
+    border-radius: 0.3rem;
+    background-color: aliceblue;
+    color: red;
+    border: 1px solid orange;
+}
+.back{
+    border-radius: 0.2rem;
+    background-color: aliceblue;
+}
